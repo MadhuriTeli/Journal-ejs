@@ -13,8 +13,8 @@ compose your daily journal
 <ul>
   <li>clone repo</li>
   <li>cd to directory</li>
-  <li>start npmt</li>
-  <li>enpm install //npm i</li>
+  <li>start npm</li>
+  <li>npm install //npm i</li>
   <li>node app.js // nodemon app.js </li>
 </ul>
 
