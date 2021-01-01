@@ -16,6 +16,7 @@ compose your daily journal
   <li>start npm</li>
   <li>npm install //npm i</li>
   <li>node app.js // nodemon app.js </li>
+  <li>on chrome go to localhost:3000</li>
 </ul>
 
 
