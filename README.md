@@ -10,9 +10,15 @@ compose your daily journal
 </ul>
 
 #How to run
-clone respo
-cd to directory
-start npm
-npm install //npm i
-node app.js //
-nodemon app.js
+<ul>
+  <li>clone repo</li>
+  <li>cd to directory</li>
+  <li>start npmt</li>
+  <li>enpm install //npm i</li>
+  <li>node app.js // nodemon app.js </li>
+</ul>
+
+
+
+
+
